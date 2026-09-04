@@ -28,7 +28,7 @@ To run properly, the pre-compiled `.exe` file requires specific asset files to b
 
 ## 🚀 How to Run
 
-1. Go to the **Releases** section on the right side of this GitHub repository and download the compiled `invicible.exe`.
+1. Go to the **main branch** on the right side of this GitHub repository and download the compiled `invicible.exe` and other files
 2. Ensure your assets are correctly placed inside the `AppData\Local\xiiudsh\` folder.
 3. Double-click **`invicible.exe`** to open the controller window, then click the **"Uruchom efekt graficzny"** button.
 
