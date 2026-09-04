@@ -18,7 +18,7 @@ To run properly, the pre-compiled `.exe` file requires specific asset files to b
 
 1. Press `Win + R`, type `%LocalAppData%` and hit **Enter** to open your local app data folder.
 2. Create a new folder named exactly: **`xiiudsh`**
-3. Place your media assets into that folder, ensuring the exact filenames and formats below:
+3. Place the files i published (ex. excursor.ani is cursor)
    * `thetruth.bmp` — Your main image (must be saved via Paint as a **24-bit or 32-bit BMP bitmap**)
    * `clingclang.wav` — Your background audio loop file
    * `excursor.ani` — Your animated mouse cursor
